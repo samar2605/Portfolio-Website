@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#sideNav .navbar-brand .img-profile {
+    max-width: 13rem;
+    max-height: 13rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+}
+.rounded-circle {
+    border-radius: 65% !important;
+}
